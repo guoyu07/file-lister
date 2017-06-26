@@ -33,6 +33,8 @@ file-lister offers a number of features beyond the DOS dir command:
 
     file-lister.exe <required path to config.json> <optional listing name>
 
+See `snap.bat` for an example of a runner that facilitates manual snapshots.
+
 ## Sample config
 
 	{
